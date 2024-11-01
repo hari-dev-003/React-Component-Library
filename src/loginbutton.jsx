@@ -10,9 +10,6 @@ const Loginbutton = () => {
     <button className='w-20 h-10 rounded-2xl bg-blue-700 hover:scale-110
     ml-80 scroll-smooth text-white' onClick={()=>handleclick()}>Login</button>
     </>
-
-
-
   )
 }
 
