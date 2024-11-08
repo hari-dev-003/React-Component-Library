@@ -10,18 +10,44 @@
 - [Input Component](#input-component)
 - [Modal Component](#modal-component)
 - [Alert Component](#alert-component)
-- [Spinner Component](#spinner-component)
-- [Accordion Component](#accordion-component)
-- [Dropdown Component](#dropdown-component)
-- [Pagination Component](#pagination-component)
-- [Toast Component](#toast-component)
-- [Tooltip Component](#tooltip-component)
-- [Alert Dialog Component](#alert-dialog-component)
-- [Loading Spinner Component](#loading-spinner-component)
-- [Alert Box Component](#alert-box-component)
-- [Alert Message Component](#alert-message-component)
-- [Alert Success Component](#alert-success-component)
-- [Alert Error Component](#alert-error-component)
 
-#### Contributions are Welcomed
-    Inviting Contributors to contribute this repository if interested
+### Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/your-username/bus-management-system.git
+    ```
+
+2. Open the project directory in your preferred code editor.
+
+3. The files are available in the Buttons folder.
+
+
+### Contributing
+
+If you would like to contribute to this component library, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix
+ ```bash
+  git checkout -b feature/your-feature-name
+   ```
+4. Make your changes and commit them
+  ```bash
+  git add .
+  git commit -m "Brief description of your changes"
+  ```
+5. Push your changes to your fork
+  ```bash
+  git push origin feature/your-feature-name
+  ```
+6. Submit a pull request
+ ```bash
+ git request-pull
+ ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
