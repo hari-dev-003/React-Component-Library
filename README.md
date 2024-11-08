@@ -1,6 +1,6 @@
 # Component Library
 
-## This repository includes of different kinds of React Components
+## This repository includes different kinds of React Components
     In this repository you can get the following types of components which you can use them directly into your projects
     which helps in reducing your time of creating the components.
 
